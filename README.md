@@ -29,6 +29,7 @@ Then go to global settings, articles, tab Permissions. Select "MyAuthorGroup".
 (I like my authors to work in the admin interface. So I allow them "Access Administration Interface" but that is my preferred choice.)
 
 Allow "Create", "Edit State", "Edit Own". You may need to allow "Edit Custom Field Value" if required.
+Add users to this group.
 
 Save the changes.
 
