@@ -1,6 +1,6 @@
 ## Why and how it works.
 
-As there is no blocking of editing content from other users, working in separate teams allows changes made by people you don't ant to be able to change but still work on their own content.
+As there is no blocking of editing content from other users, working in separate teams allows changes made by people you don't want to be able to change but still work on their own content.
 This is not (yet) a standard feature but can be accomplished by making some changes using template overrides.
 
 It is mainly replacing this:
